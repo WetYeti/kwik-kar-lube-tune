@@ -1,5 +1,5 @@
 import Link from 'next/link';
-import { ArrowRight, Phone, Wrench, Clock, MapPin, Shield, Car } from 'lucide-react';
+import { ArrowRight, Phone, Wrench, Clock, MapPin, Shield, Car, CheckCircle } from 'lucide-react';
 
 export default function HomePage() {
   return (
